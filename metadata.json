@@ -1,0 +1,7 @@
+{
+  "name": "FinLink Global Bank Connect",
+  "description": "An advanced Fintech web application for connecting with global banks, managing multi-currency accounts, applying for loans, and completing KYC verification.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
